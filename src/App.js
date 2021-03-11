@@ -8,9 +8,10 @@ function App() {
       className="App d-flex justify-content-center align-items-center"
       style={{
         height: "100vh",
+        width: "100%",
         background: `url(${Background})`,
         backgroundRepeat: "no-repeat",
-        backgroundSize: "100vw 100vh",
+        backgroundSize: "100% 100%",
       }}
     >
       <Content></Content>

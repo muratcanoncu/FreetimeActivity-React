@@ -16,7 +16,6 @@ function Content() {
         style={{
           textShadow: "2px 2px grey",
           fontSize: "4.3rem",
-          width: "800px",
         }}
       >
         {context.myState.activity.activity}
@@ -28,7 +27,7 @@ function Content() {
         Price: {context.myState.activity.price} €
       </p>
       <button
-        className="w-50 btn-primary py-1 px-4 font-weight-bolder"
+        className="btn-primary py-1 px-4 font-weight-bolder"
         onClick={() => changeHandler(context.myDispatch)}
       >
         Another One

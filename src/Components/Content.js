@@ -15,7 +15,6 @@ function Content() {
         className="mb-5"
         style={{
           textShadow: "2px 2px grey",
-          fontSize: "4.3rem",
         }}
       >
         {context.myState.activity.activity}

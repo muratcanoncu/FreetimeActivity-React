@@ -4,9 +4,11 @@ button {
 h1 {
   width: 800px;
   text-align: center;
+  font-size: 4.3rem;
 }
 @media only screen and (max-width: 500px) {
   h1 {
     width: 360px;
+    font-size: 3.4rem;
   }
 }

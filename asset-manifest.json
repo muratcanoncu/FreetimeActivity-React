@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/FreetimeActivity-React/static/css/main.fe8d83aa.chunk.css",
+    "main.js": "/FreetimeActivity-React/static/js/main.1ed4e4aa.chunk.js",
+    "main.js.map": "/FreetimeActivity-React/static/js/main.1ed4e4aa.chunk.js.map",
+    "runtime-main.js": "/FreetimeActivity-React/static/js/runtime-main.3039d683.js",
+    "runtime-main.js.map": "/FreetimeActivity-React/static/js/runtime-main.3039d683.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/FreetimeActivity-React/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.737642b9.chunk.js": "/FreetimeActivity-React/static/js/2.737642b9.chunk.js",
+    "static/js/2.737642b9.chunk.js.map": "/FreetimeActivity-React/static/js/2.737642b9.chunk.js.map",
+    "static/js/3.f7a62e26.chunk.js": "/FreetimeActivity-React/static/js/3.f7a62e26.chunk.js",
+    "static/js/3.f7a62e26.chunk.js.map": "/FreetimeActivity-React/static/js/3.f7a62e26.chunk.js.map",
+    "index.html": "/FreetimeActivity-React/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/FreetimeActivity-React/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.fe8d83aa.chunk.css.map": "/FreetimeActivity-React/static/css/main.fe8d83aa.chunk.css.map",
+    "static/js/2.737642b9.chunk.js.LICENSE.txt": "/FreetimeActivity-React/static/js/2.737642b9.chunk.js.LICENSE.txt",
+    "static/media/background.fdde3381.jpeg": "/FreetimeActivity-React/static/media/background.fdde3381.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3039d683.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.737642b9.chunk.js",
+    "static/css/main.fe8d83aa.chunk.css",
+    "static/js/main.1ed4e4aa.chunk.js"
+  ]
+}
